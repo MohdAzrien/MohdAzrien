@@ -1,4 +1,4 @@
-### MohdAzrien.githb.io
+### MohdAzrien.github.io
 
 <!--
 **MohdAzrien/MohdAzrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
